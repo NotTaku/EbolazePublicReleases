@@ -1,0 +1,5 @@
+Auto familiar will ONLY be triggered by Auto CC and Auto Login. NOT manual CC or login.
+
+Auto familiar IS NOT guaraneed to work.
+
+Auto familiar will make the attempt to summon 2 minutes after the auto login or auto cc attempt is completed.
